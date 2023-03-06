@@ -5,12 +5,19 @@
             
             robots.txt
             humans.txt
-                        
-            Cloud, Mobile & Game Development, Automation, Server Hosting, Web services
+             
 - 🌱 I’m currently learning: about robots.txt.
 - 💞️ I’m looking to collaborate on: any thing that has robots.txt!
 
+
+- 📫 How to reach me: come219pkim@gmail.com
+
 <!---
+
+should implement the commit changes counter.
+
+
+
 come219-bot/come219-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
